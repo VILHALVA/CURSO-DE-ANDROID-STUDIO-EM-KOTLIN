@@ -1,7 +1,7 @@
 # CURSO DE ANDROID STUDIO EM KOTLIN
 👨‍⚖️ANDROID STUDIO É UMA IDE CRIADA PARA DESENVOLVER APPS PARA ANDROID.
 
-<img src="FOTO_KT.jpg" align="center" width="500"> <br>
+<img src="FOTO_KTR.png" align="center" width="500"> <br>
 
 ## CONCEITO:
 O Android Studio é um ambiente de desenvolvimento integrado (IDE) oficial para o desenvolvimento de aplicativos Android. Ele oferece uma série de ferramentas e recursos projetados especificamente para facilitar a criação, depuração e otimização de aplicativos móveis para a plataforma Android.
