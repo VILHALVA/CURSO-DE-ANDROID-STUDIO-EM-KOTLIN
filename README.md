@@ -1,7 +1,7 @@
 # CURSO DE ANDROID STUDIO EM KOTLIN
-👨‍⚖️ANDROID STUDIO É UMA IDE CRIADA PARA DESENVOLVER APPS PARA ANDROID.
+👨‍⚖️ANDROID STUDIO É UMA IDE CRIADA PARA DESENVOLVER APPS PARA ANDROID. KOTLIN É UMA LINGUAGEM DE PROGRAMAÇÃO.
 
-<img src="FOTO_KTR.png" align="center" width="500"> <br>
+<img src="IMAGEM.png" align="center" width="500"> <br>
 
 ## CONCEITO:
 O Android Studio é um ambiente de desenvolvimento integrado (IDE) oficial para o desenvolvimento de aplicativos Android. Ele oferece uma série de ferramentas e recursos projetados especificamente para facilitar a criação, depuração e otimização de aplicativos móveis para a plataforma Android.
@@ -32,4 +32,5 @@ O Android Studio foi anunciado pela primeira vez durante a conferência Google I
 - [VEJA A DOCUMENTAÇÃO](https://developer.android.com/docs?hl=pt-br)
 - [LINGUAGEM DE PROGRAMAÇÃO KOTLIN](https://github.com/VILHALVA/CURSO-DE-KOTLIN) 
 - [LINGUAGEM XML](https://github.com/VILHALVA/CURSO-DE-XML)
-- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:ANDROID-STUDIO+topic:KOTLIN)
+- [VEJA OS PROJETOS EM KOTLIN](https://github.com/VILHALVA?tab=repositories&q=topic:ANDROID-STUDIO+topic:KOTLIN)
+- [VEJA TODOS OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:ANDROID-STUDIO)
