@@ -26,4 +26,6 @@ GitHub Desktop é um cliente de desktop para o GitHub que simplifica o uso do Gi
 
 Em resumo, o Git é a base do controle de versão, o GitHub é uma plataforma de hospedagem de código e colaboração, e o GitHub Desktop é uma ferramenta que torna mais fácil trabalhar com o Git e o GitHub em um ambiente de desktop. Juntos, essas ferramentas desempenham um papel fundamental no desenvolvimento de software moderno e na colaboração de equipe.
 
-* [SAIBA MAIS](https://github.com/VILHALVA/CURSO-DE-GITHUB)
+## SAIBA MAIS:
+* [CURSO DE GIT E GITHUB 01](https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-01)
+* [CURSO DE GIT E GITHUB 02](https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-02)
